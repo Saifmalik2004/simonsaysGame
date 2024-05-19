@@ -1,0 +1,30 @@
+body{
+    
+    color: white;
+    text-align: center;
+}
+h1{
+    background-color: brown;
+}
+h3{
+    color: black;
+    font-weight: 1000;
+}
+pre{
+    color: #050200ad;
+    font-weight: 1000;
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+}
+#back{
+    border: none;
+    background-color: brown;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px
+}
+#back a{
+    color: white;
+    text-decoration: none;
+}
